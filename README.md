@@ -24,6 +24,5 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/shariar-rahman-anik-543b47267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shahriar Rahman" height="30" width="40" /></a>
 <a href="https://www.facebook.com/sr.anik10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Shahriar Rahman" height="30" width="40" /></a>
 </p>
-<img src="(https://drive.google.com/file/d/1J-1VETyzN9_0blx4vBAwlxejK9rCDZWK/view?usp=share_link)" alt="" srcset="">
-
+<img src="https://drive.google.com/file/d/1J-1VETyzN9_0blx4vBAwlxejK9rCDZWK/view" alt="" srcset="">
 
