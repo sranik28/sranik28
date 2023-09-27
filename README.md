@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahriar Rahman Anik</h1>
 <img src="https://raw.githubusercontent.com/AbtahiHasan/AbtahiHasan/main/banner.png" style="width:100%">
 
-<h3 align="center">A passionate full stack web developer</h3>
+<h3 align="center">A passionate MERN Stack web developer</h3>
 
 
 <!-- - 🔭 I’m currently working on Tailwindcss javascript [AbtahiHasan](https://www.abtahihasan.com)
