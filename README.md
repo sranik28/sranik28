@@ -11,7 +11,7 @@
 - 📫 How to reach me *anikshariarrahman@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
-<a  href="https://www.linkedin.com/in/shariar-rahman-anik/"><img height="75" src="https://i.ibb.co/mSWzG5k/Linkedin.png"></a>
+<a  href="https://www.linkedin.com/in/shahriar-rahman-anik-88818b291"><img height="75" src="https://i.ibb.co/mSWzG5k/Linkedin.png"></a>
    <a href="https://www.facebook.com/S.RahmanAnik"><img height="75" src="https://i.ibb.co/MkLPMvs/Facebook.png"></a>
 
 <h3 align="left">Languages and Tools:</h3>
