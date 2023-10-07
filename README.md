@@ -46,12 +46,8 @@
 <hr/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sranik28&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
-<br/>
-<br/>
-<hr/>
-<br/>
+
 
 <p align="center">
   <a href="https://github.com/sranik28">
