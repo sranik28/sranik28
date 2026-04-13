@@ -4,7 +4,7 @@
 </p>
 <img src="https://raw.githubusercontent.com/AbtahiHasan/AbtahiHasan/main/banner.png" style="width:100%">
 
-<h3 align="center">A passionate MERN Stack web developer</h3>
+<h3 align="center">A passionate Full Stack developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sranik28&label=Profile%20views&color=0e75b6&style=flat" alt="sranik28 profile views" />
