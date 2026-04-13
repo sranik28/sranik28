@@ -47,8 +47,8 @@
 
 <br/>
 <p align="center">
-  <a  href="https://www.linkedin.com/in/shahriar-rahman-anik-88818b291"><img height="75" src="https://i.ibb.co/mSWzG5k/Linkedin.png"></a>
-   <a href="https://www.facebook.com/shahriarRahman.28/"><img height="75" src="https://i.ibb.co/MkLPMvs/Facebook.png"></a>
+  <a  href="https://www.linkedin.com/in/shahriarrahman28/"><img height="75" src="https://i.ibb.co/mSWzG5k/Linkedin.png"></a>
+   <a href="https://www.facebook.com/shahriarRahman.28"><img height="75" src="https://i.ibb.co/MkLPMvs/Facebook.png"></a>
 
 </p>
 
