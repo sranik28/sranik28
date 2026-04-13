@@ -6,6 +6,10 @@
 
 <h3 align="center">A passionate MERN Stack web developer</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sranik28&label=Profile%20views&color=0e75b6&style=flat" alt="sranik28 profile views" />
+</p>
+
 
 <!-- - 🔭 I’m currently working on Tailwindcss javascript [AbtahiHasan](https://www.abtahihasan.com)
 
@@ -23,6 +27,16 @@
  💬 &emsp; Ask me about anything [here](https://github.com/sranik28/sranik28/issues)
 
 </p>
+
+<br/>
+
+## 🔭 What I'm Currently Up To
+
+- 🌐 I'm currently working on a **Tourism Website** project
+- 📖 I'm exploring and learning **Next.js** in depth
+- 🤖 Building **AI Agent** integrations with LangChain & OpenAI
+- 🛠️ Developing full-stack apps with **MERN Stack**
+- 🚀 Looking to collaborate on **open-source projects**
 
 <br/>
 <br/>
